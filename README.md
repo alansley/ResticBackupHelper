@@ -1,6 +1,6 @@
 # ResticBackupHelper
 
-A configurable Bash script to backup and prune data using [Restic](https://restic.net/).
+A Bash script to easily backup and prune data using [Restic](https://restic.net/).
 
 To use the script, download it then edit it to specify your own backup sets, then make it executable with `chmod +x resticBackup.sh` and run it.
 
